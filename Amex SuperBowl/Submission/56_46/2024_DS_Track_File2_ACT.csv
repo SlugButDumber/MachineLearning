@@ -1,0 +1,7 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+1,team_count_50runs_last15,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games,0.1274,5
+2,team_winp_last5,Ratio of team1's win % to team2's win % in last 5 games,0.1396,4
+3,team1only_avg_runs_last15,team1's avg inning runs in last 15 games,0.1529,2
+4,team1_winp_team2_last15,Team1's win percentage against Team2 in last 15 games,0.0708,6
+5,ground_avg_runs_last15 ,average runs scored in the ground in last 15 games,0.1641,1
+6,team_count_30runs_last15,Ratio of number of 30s by players in team1 to number of 30s by players in team2 in last 15 games,0.1456,3

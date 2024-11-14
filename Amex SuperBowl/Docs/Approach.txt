@@ -1,0 +1,6 @@
+1. Import dataset
+2. Drop following (team1, team2, winner)
+3. Drop rows with null vals
+3. Create column year and drop match_dt
+4. Combine toss_winner and toss_decision
+ 
